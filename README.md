@@ -1,5 +1,5 @@
 # Red-Neuronal
-Proyecto de desarrollo de red neuronal en Jupyter Notebook
+Proyecto de desarrollo de red neuronal en Jupyter Notebook para el reconocimiento de imagenes.
 
 La estructura del presente proyecto es la siguiente:
 
